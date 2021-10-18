@@ -6,8 +6,16 @@
           <span class="font-light text-gray-600">Jun 1, 2020</span
           ><a
             href="#"
-            class="px-2 py-1 font-bold text-gray-100 bg-gray-600 rounded hover:bg-gray-500"
-            >{{ item.cat }}</a
+            class="
+              px-2
+              py-1
+              font-bold
+              text-gray-100
+              bg-gray-600
+              rounded
+              hover:bg-gray-500
+            "
+            >Hello {{ item.cat }}</a
           >
         </div>
         <div class="mt-2">
